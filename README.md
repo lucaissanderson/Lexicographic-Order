@@ -1,4 +1,4 @@
-# pa1 : List ADT
+# List ADT
 
 ## Files:
 
